@@ -1,10 +1,11 @@
-👋 Hi, I'm Sajjad Ahmed
-I'm a Freelance Engineer specializing in web scraping, static website design, UI/UX design.
+Hi, I'm Sajjad Ahmed, specializing in ERPNext development and customization.
 
-🔹 Expertise: Web Scraping | Data Engineering | UI/UX Design
-🔹 Tech Stack: Python | JavaScript | Selenium | BeautifulSoup | MySQL
-🔹 Projects: Custom web scraping solutions, SEO-friendly static websites, and UI/UX designs
+🔹 Expertise: ERPNext (HR, Payroll, Workflow Customization, Saudi Compliance)
+🔹 Tech Stack: ERPNext | Frappe | Python | JavaScript
+🔹 Projects: ERPNext HR & Payroll implementations, custom workflows, compliance solutions
 
-I’m always exploring new technologies and open to collaboration on interesting projects. Feel free to connect!
+🔹 Additional: Static website design (SEO-friendly)
+
+I’m open to collaboration on ERPNext projects and implementation work. Feel free to connect!
 
 📫 Get in Touch: sajjadsajju9050@gmail.com
